@@ -1,11 +1,31 @@
 {
   "format": "invlab-productos/1",
-  "generated_at_utc": "2026-10-27T07:33:15.000Z",
+  "generated_at_utc": "2026-10-28T07:42:11.000Z",
   "status": "OK",
   "products": [
     {
       "name": "Banco Santander",
       "isin": "ES0113900J37"
+    },
+    {
+      "name": "Compagnie de Saint-Gobain",
+      "isin": "FR0000125007"
+    },
+    {
+      "name": "Iberdrola",
+      "isin": "ES0144580Y14"
+    },
+    {
+      "name": "iShares Core MSCI World UCITS ETF USD (Acc)",
+      "isin": "IE00B4L5Y983"
+    },
+    {
+      "name": "iShares Edge MSCI World Quality Factor UCITS ETF USD (Acc)",
+      "isin": "IE00BP3QZ601"
+    },
+    {
+      "name": "iShares EUR Govt Bond 1-3yr UCITS ETF (Dist)",
+      "isin": "IE00B14X4Q57"
     }
   ]
 }
