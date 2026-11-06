@@ -1,6 +1,6 @@
 {
   "format": "invlab-productos/1",
-  "generated_at_utc": "2026-11-05T08:00:19.000Z",
+  "generated_at_utc": "2026-11-06T07:58:09.000Z",
   "status": "OK",
   "products": [
     {
@@ -26,6 +26,10 @@
     {
       "name": "iShares EUR Govt Bond 1-3yr UCITS ETF (Dist)",
       "isin": "IE00B14X4Q57"
+    },
+    {
+      "name": "TotalEnergies",
+      "isin": "FR0000120271"
     }
   ]
 }
