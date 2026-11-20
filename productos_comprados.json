@@ -1,6 +1,6 @@
 {
   "format": "invlab-productos/1",
-  "generated_at_utc": "2026-11-19T16:06:13.000Z",
+  "generated_at_utc": "2026-11-20T15:47:37.000Z",
   "status": "OK",
   "products": [
     {
@@ -26,6 +26,10 @@
     {
       "name": "iShares EUR Govt Bond 1-3yr UCITS ETF (Dist)",
       "isin": "IE00B14X4Q57"
+    },
+    {
+      "name": "iShares MSCI World Small Cap UCITS ETF USD (Acc)",
+      "isin": "IE00BF4RFH31"
     },
     {
       "name": "TotalEnergies",
